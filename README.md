@@ -1,6 +1,8 @@
 # HWT901B-TTL
 Developed tutorial: providing manual, datasheet, free software for Windows computer, APP for Android smartphones , and sample code for MCU integration including 51 serial, STM32, Arduino, Matlab, Raspberry Pi, communication protocol for project development
+
 RELEASE NOTES
+
 =============
 WITMOTION Turotial File 
 
@@ -10,6 +12,7 @@ Release date:    2020-07-20
 This package contains all neccessary file for set-up of the sensor. 
 
 Unzip the .zip file and you will have a directory containing the files.
+
 -----------
 
 Document download link:
@@ -23,6 +26,7 @@ Youtube Channael:
 https://www.youtube.com/c/WITMOTION
 HWT901B Playlist: 
 https://www.youtube.com/watch?v=NWuTpxJJPwE&list=PL43tdDrVL_VBfg-J2Mk6KrUb2V8_bGZmP
+
 -----------
 After-sale Service& Technical Support: 
 If you have queries about the sensors' set-up, software installation, APP, drivers
